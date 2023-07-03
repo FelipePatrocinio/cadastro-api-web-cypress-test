@@ -1,0 +1,8 @@
+[
+    { 
+        "documentNumber": 23.11, 
+        "billingPlanCode": "EMPRESA_SOCIO_SEMESTRAL", 
+        "automaticRenewSubscription": true
+    } 
+
+]

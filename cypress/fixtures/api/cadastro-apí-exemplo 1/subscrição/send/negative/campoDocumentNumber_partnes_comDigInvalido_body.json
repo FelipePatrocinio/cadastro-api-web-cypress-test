@@ -1,0 +1,13 @@
+[
+    {
+        "documentNumber": "03758318000124",
+        "billingPlanCode": "MONTHLY",
+        "automaticRenewSubscription": "true",
+        "partnerDocuments": [
+            {
+                "documentNumber": "23838457000185",
+                "documentType": "CNPJ"
+            }
+        ]
+    }
+]

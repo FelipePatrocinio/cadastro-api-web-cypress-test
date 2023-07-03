@@ -1,0 +1,8 @@
+[
+    { 
+        "documentNumber": "AA.AAA.BBB/CCCC-UU", 
+        "billingPlanCode": "EMPRESA_SOCIO_ANUAL", 
+        "automaticRenewSubscription": false
+    } 
+
+]

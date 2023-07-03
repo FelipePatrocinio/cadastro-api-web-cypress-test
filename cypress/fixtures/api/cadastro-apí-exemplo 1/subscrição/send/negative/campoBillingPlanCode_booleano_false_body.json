@@ -1,0 +1,13 @@
+[
+    {
+        "documentNumber": "11752203000150",
+        "billingPlanCode": false,
+        "automaticRenewSubscription": "true",
+        "partnerDocuments": [
+            {
+                "documentNumber": "22101423855",
+                "documentType": "CPF"
+            }
+        ]
+    }
+]

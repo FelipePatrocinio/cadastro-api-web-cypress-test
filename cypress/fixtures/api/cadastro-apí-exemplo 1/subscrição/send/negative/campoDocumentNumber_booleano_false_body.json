@@ -1,0 +1,8 @@
+[
+    { 
+        "documentNumber": false, 
+        "billingPlanCode": "EMPRESA_MENSAL", 
+        "automaticRenewSubscription": true
+    } 
+
+]

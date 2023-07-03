@@ -1,0 +1,27 @@
+[
+    {
+        "documentNumber": "10338320000100",
+        "billingPlanCode": "ANNUAL",
+        "automaticRenewSubscription": "false"
+    },
+    {
+        "documentNumber": "11752203000150",
+        "billingPlanCode": "ANNUAL",
+        "automaticRenewSubscription": "false"
+    },
+    {
+        "documentNumber": "03758318000124",
+        "billingPlanCode": "ANNUAL",
+        "automaticRenewSubscription": "false"
+    },
+	{
+        "documentNumber": "04128563000110",
+        "billingPlanCode": "ANNUAL",
+        "automaticRenewSubscription": "false"
+    },
+	{
+        "documentNumber": "61156113000175",
+        "billingPlanCode": "ANNUAL",
+        "automaticRenewSubscription": "false"
+    }
+]

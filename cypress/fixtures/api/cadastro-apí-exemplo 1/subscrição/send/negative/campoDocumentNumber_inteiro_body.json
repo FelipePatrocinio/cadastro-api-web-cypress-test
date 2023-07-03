@@ -1,0 +1,8 @@
+[
+    { 
+        "documentNumber": 90, 
+        "billingPlanCode": "EMPRESA_SOCIO_MENSAL", 
+        "automaticRenewSubscription": true
+    } 
+
+]

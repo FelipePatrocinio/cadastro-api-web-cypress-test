@@ -1,0 +1,8 @@
+[
+    { 
+        "documentNumber": true, 
+        "billingPlanCode": "EMPRESA_TRIMESTRAL", 
+        "automaticRenewSubscription": true
+    } 
+
+]

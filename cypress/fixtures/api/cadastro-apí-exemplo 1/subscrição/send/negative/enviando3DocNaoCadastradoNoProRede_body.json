@@ -1,0 +1,20 @@
+[
+    {
+        "documentNumber": "69354521000143",
+        "billingPlanCode": "MONTHLY",
+        "automaticRenewSubscription": "true",
+        "partnerDocuments": []
+    },
+    {
+        "documentNumber": "46675044000112",
+        "billingPlanCode": "MONTHLY",
+        "automaticRenewSubscription": "true",
+        "partnerDocuments": []
+    },
+    {
+        "documentNumber": "15905970000103",
+        "billingPlanCode": "MONTHLY",
+        "automaticRenewSubscription": "true",
+        "partnerDocuments": []
+    }
+]
